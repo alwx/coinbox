@@ -1,0 +1,826 @@
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.497 seconds.[0m
+[36m----  Could not Analyze  target/figwheel_temp/dev/figwheel/connect/build_dev.cljs  ----[0m
+
+  [1mNo such namespace: spaces.core, could not locate spaces/core.cljs, spaces/core.cljc, or JavaScript source providing "spaces.core" [0m
+
+[36m----  Analysis Error : Please see target/figwheel_temp/dev/figwheel/connect/build_dev.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+WARNING: preload namespace devtools.preload does not exist
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.092 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.037 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.527 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.645 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.678 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.85 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.705 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.561 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.62 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs   line:3  column:1  ----[0m
+
+  [1mParameter declaration missing[0m
+
+  [36m1[0m  [36m(ns coinbox.api)[0m
+  [36m2[0m  [36m[0m
+  [33m3[0m  [1m(defn url "")[0m
+  [0m [0m  [33m^--- Parameter declaration missing[0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.964 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs   line:3  column:1  ----[0m
+
+  [1mParameter declaration missing[0m
+
+  [36m1[0m  [36m(ns coinbox.api)[0m
+  [36m2[0m  [36m[0m
+  [33m3[0m  [1m(defn url "https://sandbox.public.api.bunq.com/v1")[0m
+  [0m [0m  [33m^--- Parameter declaration missing[0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.719 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.464 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.059 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.893 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs   line:5  column:1  ----[0m
+
+  [1mWrong number of args (0) passed to: core/defn--28433[0m
+
+  [36m3[0m  [36m(def url "https://sandbox.public.api.bunq.com/v1")[0m
+  [36m4[0m  [36m[0m
+  [33m5[0m  [1m(defn )[0m
+  [0m [0m  [33m^--- Wrong number of args (0) passed to: core/defn--28433[0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.601 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs   line:5  column:1  ----[0m
+
+  [1mParameter declaration missing[0m
+
+  [36m3[0m  [36m(def url "https://sandbox.public.api.bunq.com/v1")[0m
+  [36m4[0m  [36m[0m
+  [33m5[0m  [1m(defn installation)[0m
+  [0m [0m  [33m^--- Parameter declaration missing[0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.738 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs   line:6  column:1  ----[0m
+
+  [1mParameter declaration missing[0m
+
+  [36m4[0m  [36m(def url "https://sandbox.public.api.bunq.com/v1")[0m
+  [36m5[0m  [36m[0m
+  [33m6[0m  [1m(defn installation)[0m
+  [0m [0m  [33m^--- Parameter declaration missing[0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.94 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs  ----[0m
+
+  [1mNo such namespace: cljs-http.client, could not locate cljs_http/client.cljs, cljs_http/client.cljc, or JavaScript source providing "cljs-http.client" [0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.506 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs  ----[0m
+
+  [1mNo such namespace: cljs-http.client, could not locate cljs_http/client.cljs, cljs_http/client.cljc, or JavaScript source providing "cljs-http.client" [0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[31mFailed to compile "resources/public/js/compiled/coinbox.js" in 0.735 seconds.[0m
+[36m----  Could not Analyze  src/coinbox/api.cljs  ----[0m
+
+  [1mNo such namespace: cljs-http.client, could not locate cljs_http/client.cljs, cljs_http/client.cljc, or JavaScript source providing "cljs-http.client" [0m
+
+[36m----  Analysis Error : Please see src/coinbox/api.cljs  ----[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.311 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/cljs_deps.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.098 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.425 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.094 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.62 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.005 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.875 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.068 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.921 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.743 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.088 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.693 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.184 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.247 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.418 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.233 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.711 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.825 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.799 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.432 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.391 seconds.[0m
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/core.js
+notifying browser that file changed:  resources/public/js/compiled/out/coinbox/api.js
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.838 seconds.[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 0.997 seconds.[0m
+[0mCompiling "resources/public/js/compiled/coinbox.js" from ["src"]...[0m
+[32mSuccessfully compiled "resources/public/js/compiled/coinbox.js" in 1.227 seconds.[0m
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:3  column:1  ----[0m
+
+  [1mUnable to resolve symbol: defroutes in this context[0m
+
+  [36m1[0m  [36m(ns coinbox.core)[0m
+  [36m2[0m  [36m[0m
+  [33m3[0m  [1m(defroutes main-routes[0m
+  [0m [0m  [33m^--- Unable to resolve symbol: defroutes in this context[0m
+  [36m4[0m  [36m  (route/resources "/")[0m
+  [36m5[0m  [36m  (route/not-found "Page not found"))[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.lang.RuntimeException: Unable to resolve symbol: defroutes in this context
+ at clojure.lang.Util.runtimeException (Util.java:221)
+    clojure.lang.Compiler.resolveIn (Compiler.java:7164)
+    clojure.lang.Compiler.resolve (Compiler.java:7108)
+    clojure.lang.Compiler.analyzeSymbol (Compiler.java:7069)
+    clojure.lang.Compiler.analyze (Compiler.java:6648)
+    clojure.lang.Compiler.analyze (Compiler.java:6625)
+    clojure.lang.Compiler$InvokeExpr.parse (Compiler.java:3766)
+    clojure.lang.Compiler.analyzeSeq (Compiler.java:6870)
+    clojure.lang.Compiler.analyze (Compiler.java:6669)
+    clojure.lang.Compiler.analyze (Compiler.java:6625)
+    clojure.lang.Compiler.eval (Compiler.java:6931)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure])[0m
+  [36m3[0m  [36m  (:gen-class))[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    coinbox.core$eval38086$loading__5569__auto____38087.invoke (core.clj:1)
+    coinbox.core$eval38086.invokeStatic (core.clj:1)
+    coinbox.core$eval38086.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure])[0m
+  [36m3[0m  [36m  (:gen-class))[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    coinbox.core$eval38092$loading__5569__auto____38093.invoke (core.clj:1)
+    coinbox.core$eval38092.invokeStatic (core.clj:1)
+    coinbox.core$eval38092.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route])[0m
+  [36m4[0m  [36m  (:gen-class))[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:421)
+    coinbox.core$eval38098$loading__5569__auto____38099.invoke (core.clj:1)
+    coinbox.core$eval38098.invokeStatic (core.clj:1)
+    coinbox.core$eval38098.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.middleware.cors :as cors])[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:436)
+    coinbox.core$eval38104$loading__5569__auto____38105.invoke (core.clj:1)
+    coinbox.core$eval38104.invokeStatic (core.clj:1)
+    coinbox.core$eval38104.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.middleware.cors :as cors])[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:436)
+    coinbox.core$eval38110$loading__5569__auto____38111.invoke (core.clj:1)
+    coinbox.core$eval38110.invokeStatic (core.clj:1)
+    coinbox.core$eval38110.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.middleware.cors :as cors])[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:436)
+    coinbox.core$eval38116$loading__5569__auto____38117.invoke (core.clj:1)
+    coinbox.core$eval38116.invokeStatic (core.clj:1)
+    coinbox.core$eval38116.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.middleware.cors :as cors])[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:436)
+    coinbox.core$eval38122$loading__5569__auto____38123.invoke (core.clj:1)
+    coinbox.core$eval38122.invokeStatic (core.clj:1)
+    coinbox.core$eval38122.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.middleware.cors :as cors])[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:436)
+    coinbox.core$eval38128$loading__5569__auto____38129.invoke (core.clj:1)
+    coinbox.core$eval38128.invokeStatic (core.clj:1)
+    coinbox.core$eval38128.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.middleware.cors :as cors])[0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:436)
+    coinbox.core$eval38134$loading__5569__auto____38135.invoke (core.clj:1)
+    coinbox.core$eval38134.invokeStatic (core.clj:1)
+    coinbox.core$eval38134.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
+[36m----  Couldn't load Clojure file  src/clj/coinbox/core.clj   line:1  column:1  ----[0m
+
+  [1mCould not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+
+  [33m1[0m  [1m(ns coinbox.core[0m
+  [0m [0m  [33m^--- Could not locate compojure/core__init.class or compojure/core.clj on classpath.[0m
+  [36m2[0m  [36m  (:require [compojure.core :as compojure][0m
+  [36m3[0m  [36m            [compojure.route :as route][0m
+  [36m4[0m  [36m            [ring.adapter.jetty :as jetty][0m
+
+[36m----  Exception Stack Trace  ----[0m
+
+java.io.FileNotFoundException: Could not locate compojure/core__init.class or compojure/core.clj on classpath.
+ at clojure.lang.RT.load (RT.java:456)
+    clojure.lang.RT.load (RT.java:419)
+    clojure.core$load$fn__5677.invoke (core.clj:5893)
+    clojure.core$load.invokeStatic (core.clj:5892)
+    clojure.core$load.doInvoke (core.clj:5876)
+    clojure.lang.RestFn.invoke (RestFn.java:408)
+    clojure.core$load_one.invokeStatic (core.clj:5697)
+    clojure.core$load_one.invoke (core.clj:5692)
+    clojure.core$load_lib$fn__5626.invoke (core.clj:5737)
+    clojure.core$load_lib.invokeStatic (core.clj:5736)
+    clojure.core$load_lib.doInvoke (core.clj:5717)
+    clojure.lang.RestFn.applyTo (RestFn.java:142)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$load_libs.invokeStatic (core.clj:5774)
+    clojure.core$load_libs.doInvoke (core.clj:5758)
+    clojure.lang.RestFn.applyTo (RestFn.java:137)
+    clojure.core$apply.invokeStatic (core.clj:648)
+    clojure.core$require.invokeStatic (core.clj:5796)
+    clojure.core$require.doInvoke (core.clj:5796)
+    clojure.lang.RestFn.invoke (RestFn.java:457)
+    coinbox.core$eval38140$loading__5569__auto____38141.invoke (core.clj:1)
+    coinbox.core$eval38140.invokeStatic (core.clj:1)
+    coinbox.core$eval38140.invoke (core.clj:1)
+    clojure.lang.Compiler.eval (Compiler.java:6927)
+    clojure.lang.Compiler.eval (Compiler.java:6916)
+    clojure.lang.Compiler.load (Compiler.java:7379)
+    clojure.lang.Compiler.loadFile (Compiler.java:7317)
+    clojure.lang.RT$3.invoke (RT.java:320)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invokeStatic (clj_reloading.clj:61)
+    figwheel_sidecar.build_middleware.clj_reloading$handle_clj_source_reloading.invoke (clj_reloading.clj:46)
+    figwheel_sidecar.build_middleware.clj_reloading$hook$fn__26606.invoke (clj_reloading.clj:93)
+    figwheel_sidecar.build_middleware.javascript_reloading$hook$fn__26639.invoke (javascript_reloading.clj:48)
+    figwheel_sidecar.components.cljs_autobuild$color_output$fn__26692.invoke (cljs_autobuild.clj:79)
+    figwheel_sidecar.components.cljs_autobuild$execute_build$fn__26733.invoke (cljs_autobuild.clj:231)
+    figwheel_sidecar.utils$sync_exec$fn__3063$fn__3064.invoke (utils.clj:13)
+    figwheel_sidecar.utils$sync_exec$fn__3063.invoke (utils.clj:12)
+    clojure.core$binding_conveyor_fn$fn__4676.invoke (core.clj:1941)
+    clojure.lang.AFn.applyToHelper (AFn.java:154)
+    clojure.lang.RestFn.applyTo (RestFn.java:132)
+    clojure.lang.Agent$Action.doRun (Agent.java:114)
+    clojure.lang.Agent$Action.run (Agent.java:163)
+    java.util.concurrent.ThreadPoolExecutor.runWorker (ThreadPoolExecutor.java:1142)
+    java.util.concurrent.ThreadPoolExecutor$Worker.run (ThreadPoolExecutor.java:617)
+    java.lang.Thread.run (Thread.java:748)
+
